@@ -7,7 +7,7 @@ Based on Blood pressure and Heart rate an indicator flag is used to denote
 one's health condition.
 
 Smaple UI of the APP:<br>
-![SLASH](/images/1.PNG "SLASH")
+<img src = "images/1.PNG" alt = "SLASH" title = "SLASH" width = "210" >
 ![GET STARTED](/images/2.PNG "GET STARTED")
 ![HOME](/images/3.PNG "HOME")
 ![ADD](/images/4.PNG "ADD")

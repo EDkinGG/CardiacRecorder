@@ -6,7 +6,7 @@ developed an app to keep track of their Blood pressure and Heart Rate data.
 Based on Blood pressure and Heart rate an indicator flag is used to denote 
 one's health condition.
 
-Smaple UI of the APP:
+Smaple UI of the APP:<br>
 ![SLASH](/images/1.PNG "SLASH")
 ![GET STARTED](/images/2.PNG "GET STARTED")
 ![HOME](/images/3.PNG "HOME")
