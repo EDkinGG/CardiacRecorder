@@ -7,11 +7,11 @@ Based on Blood pressure and Heart rate an indicator flag is used to denote
 one's health condition.
 
 Smaple UI of the APP:<br>
-<img src = "images/1.PNG" alt = "SLASH" title = "SLASH" width = "210" >
-<img src = "images/2.PNG" alt = "GET STARTED" title = "GET STARTED" width = "210" >
-<img src = "images/3.PNG" alt = "HOME" title = "HOME" width = "210" >
-<img src = "images/4.PNG" alt = "ADD" title = "ADD" width = "210" >
-<img src = "images/5.PNG" alt = "RECORD" title = "RECORD" width = "210" >
-<img src = "images/6.PNG" alt = "DETAILS" title = "DETAILS" width = "210" >
-<img src = "images/7.PNG" alt = "EDIT" title = "EDIT" width = "210" >
-<img src = "images/8.PNG" alt = "PROFILE" title = "PROFILE" width = "210" >
+<img src = "images/1.PNG" alt = "SLASH" title = "SLASH" width = "270" >
+<img src = "images/2.PNG" alt = "GET STARTED" title = "GET STARTED" width = "270" >
+<img src = "images/3.PNG" alt = "HOME" title = "HOME" width = "270" >
+<img src = "images/4.PNG" alt = "ADD" title = "ADD" width = "270" >
+<img src = "images/5.PNG" alt = "RECORD" title = "RECORD" width = "270" >
+<img src = "images/6.PNG" alt = "DETAILS" title = "DETAILS" width = "270" >
+<img src = "images/7.PNG" alt = "EDIT" title = "EDIT" width = "270" >
+<img src = "images/8.PNG" alt = "PROFILE" title = "PROFILE" width = "270" >
